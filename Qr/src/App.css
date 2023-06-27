@@ -1,0 +1,29 @@
+#root {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --white-color: hsl(0, 0%, 100%);
+  --light-gray-color: hsl(212, 45%, 89%);
+  --light-blue-color: hsl(220, 15%, 55%);
+  --dark-blue-color: hsl(218, 44%, 22%);
+}
+
+body {
+  background-color: var(--light-gray-color);
+  height: 100%;
+  width: 100%;
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
