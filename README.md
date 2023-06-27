@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 - Vista de escritorio
 
-(![image](https://github.com/r0odr1/QR-code-component/assets/126527883/24fdff9f-1fff-4ef5-a5b8-f223902433e6)
+![image](https://github.com/r0odr1/QR-code-component/assets/126527883/24fdff9f-1fff-4ef5-a5b8-f223902433e6)
 
 - Vista mobil
 
