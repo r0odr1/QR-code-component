@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 - Vista de escritorio
 
-![image](![image](https://github.com/r0odr1/QR-code-component/assets/126527883/24fdff9f-1fff-4ef5-a5b8-f223902433e6)
+(![image](https://github.com/r0odr1/QR-code-component/assets/126527883/24fdff9f-1fff-4ef5-a5b8-f223902433e6)
 
 - Vista mobil
 
@@ -56,4 +56,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Gracias a Make It Real, cada dia aprendo cosas nuevas como en este proyecto el trabajar con React
