@@ -1,6 +1,6 @@
 # Make It Real - QR code component
 
-This is a solution to the _______ project of the Make It Real course.
+This is a solution to the Qr Code project of the Make It Real course.
 
 ## Table of contents
 
